@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788985394590",
+    "project_id": "maps-87eda",
+    "storage_bucket": "maps-87eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788985394590:android:ff1ec7464fd9b18523928f",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-scyciOutxrLAnUIEtR_Euh9Cdji2j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
